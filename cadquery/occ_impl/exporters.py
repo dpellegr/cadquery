@@ -1,5 +1,5 @@
 from __future__ import unicode_literals
-from OCC.Core.Visualization import Tesselator
+import OCC.Core.Tesselator
 
 import tempfile
 import os

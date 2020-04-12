@@ -116,7 +116,7 @@ from OCC.Core.ShapeUpgrade import ShapeUpgrade_UnifySameDomain
 
 from OCC.Core.BRepTools import breptools_Write
 
-from OCC.Core.Visualization import Tesselator
+import OCC.Core.Tesselator
 
 from OCC.Core.LocOpe import LocOpe_DPrism
 
